@@ -1,0 +1,40 @@
+{
+  "animals": [
+    {
+      "species": "Lion",
+      "age": 5,
+      "habitat": "Savannah",
+      "diet": "Carnivore"
+    },
+    {
+      "species": "Elephant",
+      "age": 10,
+      "habitat": "Jungle",
+      "diet": "Herbivore"
+    },
+    {
+      "species": "Dolphin",
+      "age": 3,
+      "habitat": "Ocean",
+      "diet": "Piscivore"
+    },
+    {
+      "species": "Penguin",
+      "age": 2,
+      "habitat": "Antarctica",
+      "diet": "Piscivore"
+    }
+  ],
+  "users": [
+    {
+      "username": "animallover123",
+      "age": 30,
+      "interests": ["Wildlife photography", "Nature conservation"]
+    },
+    {
+      "username": "petlover456",
+      "age": 25,
+      "interests": ["Pet care", "Animal behavior"]
+    }
+  ]
+}
